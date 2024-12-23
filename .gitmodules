@@ -1,0 +1,6 @@
+[submodule "book-storage"]
+	path = book-storage
+	url = https://github.com/msleshk/book-storage-service.git
+[submodule "book-tracker"]
+	path = book-tracker
+	url = https://github.com/msleshk/book-tracker-service.git
